@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.messageInput {
+  text-align: center;
+}
+.listing {
+  margin-top: 2rem;
+  color: blue;
+  font-size: 1.5rem;
+}
+button {
+  margin-top: 2rem;
+  margin-left: 1rem;
+  background-color: rgb(50, 201, 168);
+  padding: 4px 7px;
+  border: none;
+}
+input {
+  margin-top: 2rem;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  width: 30rem;
+  font-size: 1em;
+  outline: none;
+}
